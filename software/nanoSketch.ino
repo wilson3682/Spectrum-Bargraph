@@ -2,9 +2,9 @@
 #define S0 5
 #define S1 3
 #define S2 4
-#define ENABLE 2
-#define STROBE 1
-#define RESET 0
+#define ENABLE 6
+#define STROBE 7
+#define RESET 8
 
 void setup() {
   // Set data direction for control pins (74HC4051)
